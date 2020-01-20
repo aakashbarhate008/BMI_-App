@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560819627927",
+    "firebase_url": "https://bmicalcapp.firebaseio.com",
+    "project_id": "bmicalcapp",
+    "storage_bucket": "bmicalcapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560819627927:android:bc041c5d1dad03f7",
+        "android_client_info": {
+          "package_name": "com.example.aakash.bmi_calc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560819627927-g1vpv2skv2k12fs3q7f1caao1hccs1o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aakash.bmi_calc_app",
+            "certificate_hash": "0cfab6f9c7881ad1a47db6da116ac74a67f88fa3"
+          }
+        },
+        {
+          "client_id": "560819627927-nt7v2vprg2unnm9avmr9kc74p685845v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7e1U1EpIZaIzCawhXMPKKd1F2kBp2u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560819627927-nt7v2vprg2unnm9avmr9kc74p685845v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
